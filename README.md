@@ -1,7 +1,7 @@
 # Generate Test Files
 Node based CLI tool to generate a file of any size containing with random data.
 
-There is also an online version: [generate & download test files of any size](https://fastest.fish/test-files)
+There is also an online version: [generate & download test files of any size](https://fastest.fish/test-files#custom)
 
 The script is only ~40 lines and is easily modifiable.
 

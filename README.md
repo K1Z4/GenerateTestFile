@@ -11,13 +11,13 @@ The script is only ~40 lines and is easily modifiable.
 - Pull down the repository
 
 ```
-node generate-file.js 1200
+node main.js 1200
 ```
 
 Where 1200 is the number of bytes you want in your file.
 
 ```
-node generate-file.js
+node main.js
 ```
 
 To use the default defined in the script which is 1000 bytes.
